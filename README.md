@@ -1,2 +1,3 @@
 # RactTypeScriptMemoApp
-Created with CodeSandbox
+勉強のためデザインは整えてませんがReactとTypeScriptでメモアプリを作りました。
+コンポーネントとhooksを意識して分割しました。
